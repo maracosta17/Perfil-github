@@ -1,4 +1,4 @@
-# <h1 align="center">Hi, I'm <a href="https://github.com/Kathryn-Jie">Yi Jie<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
+# <h1 align="center">Hi, I'm <a href="[https://github.com/Kathryn-Jie](https://github.com/maracosta17)">Maryorie Viluce<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
     
 <p align="center">
 </p>
@@ -11,20 +11,20 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
-*Digital Craftsman (Developer / Programmer)*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Yori! 
+*Biomedical Engineering Student (Universidad Latian de Panama)*
 <br /> 
     
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I am passionate about medicine and engineering, and I decided to study biomedicine to help improve people's healthcare. </p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- 💁‍♂️ Volunteer MOD at **Dev Community**.
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+✨ Student of life :)
+- 🌱 I'm currently learning a lot; I believe every day is an opportunity to learn.
+- 🏙 I love exploring new places and taking adventurous trips.
+- 💁‍♂️ I frequently train at Santa Fe Hospital.
+- ✍ I like to share interesting activities I do in my life through social media.
+- ❤ I'm a blood donor.
+- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more information about me.
 <!--End Intro-->
 
 
